@@ -97,6 +97,35 @@ Take a look at the application in action:
    ![Recent Commits Viewer](/images/commits.png)
 
 
+## 📂 Directory Structure
+
+```
+📁 DevLensia/
+├── 📄 README.md
+├── 📄 Dockerfile
+├── 📄 eslint.config.js
+├── 📄 index.html
+├── 📄 package.json
+├── 📄 postcss.config.js
+├── 📄 tailwind.config.js
+├── 📄 tsconfig.app.json
+├── 📄 tsconfig.json
+├── 📄 tsconfig.node.json
+├── 📄 vite.config.ts
+├── 📁 images/
+├── 📁 media/
+└── 📁 src/
+    ├── 📄 App.tsx
+    ├── 📄 github.ts
+    ├── 📄 index.css
+    ├── 📄 main.tsx
+    ├── 📄 proxy.ts
+    ├── 📄 types.ts
+    └── 📄 vite-env.d.ts
+
+```
+
+
 ## 💡 Contributions and Issues
 
 Contributions are welcome! There are many ways you can help improve **Devlensia**. If you're unsure how to contribute or get stuck, feel free to tag @thor (thunder0411), or join our Discord server [Crimson Command Center](https://discord.gg/WqRGvUwFFr)✨.
