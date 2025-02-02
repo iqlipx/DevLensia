@@ -130,7 +130,7 @@ Take a look at the application in action:
 
 Contributions are welcome! There are many ways you can help and improve **Devlensia**. If you're unsure how to contribute or get stuck, feel free to tag @thor (thunder0411) or @iqlip, or join our Discord server [Crimson Command Center](https://discord.gg/WqRGvUwFFr)✨.
 
-Please ensure that all contributions align with ethical practices. If you encounter any issues or bugs, please report them on the [GitHub repository](https://github.com/iqlipx/DevLensia/issues).
+Please ensure that all contributions align with ethical practices. If you encounter any issues or bugs, please report them on the [GitHub Issues](https://github.com/iqlipx/DevLensia/issues).
 
 
 
