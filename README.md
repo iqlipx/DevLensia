@@ -1,4 +1,4 @@
-# 🌐 DevLensia
+# DevLensia
 
 *Devlensia* is a **web-based tool** that simplifies exploring **GitHub profiles**, **repositories**, and **commits**. It’s ideal for **developers**, **security professionals**, and **OSINT practitioners**. The tool uses the **GitHub API**, bypasses API restrictions with **CORS proxies**, and enhances performance with **local caching**. Devlensia streamlines your workflow and boosts investigative capabilities.
 
@@ -97,9 +97,9 @@ Take a look at the application in action:
    ![Recent Commits Viewer](/images/commits.png)
 
 
-## ⚗️ Contributions and Issues
+## 💡 Contributions and Issues
 
-Contributions are welcome! There are many ways you can help improve **Devlensia**. If you're unsure how to contribute or get stuck, feel free to tag @thor (thunder0411), or join our Discord server ✨.
+Contributions are welcome! There are many ways you can help improve **Devlensia**. If you're unsure how to contribute or get stuck, feel free to tag @thor (thunder0411), or join our Discord server [Crimson Command Center](https://discord.gg/WqRGvUwFFr)✨.
 
 Please ensure that all contributions align with ethical practices. If you encounter any issues or bugs, please report them on the [GitHub repository](https://github.com/iqlipx/DevLensia/issues).
 
