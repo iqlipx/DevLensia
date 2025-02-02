@@ -92,7 +92,7 @@ Take a look at the application in action:
 
 4. **Recent Commits**:
    
-   See the latest commits from each repository.
+   See the Recent commits from each repository.
    
    ![Recent Commits Viewer](/images/commits.png)
 
