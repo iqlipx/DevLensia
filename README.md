@@ -1,6 +1,6 @@
 # DevLensia
 
-*Devlensia* is a **web-based tool** that simplifies exploring **GitHub profiles**, **repositories**, and **commits**. It’s ideal for **developers**, **security professionals**, and **OSINT practitioners**. The tool uses the **GitHub API**, bypasses API restrictions with **CORS proxies**, and enhances performance with **local caching**. Devlensia streamlines your workflow and boosts investigative capabilities.
+**Devlensia** is a **web-based tool** for easy exploration of **GitHub profiles**, **repositories**, and **commits**. Perfect for **developers**, **security professionals**, and **OSINT enthusiasts**, it utilizes the **GitHub API**, bypasses API restrictions with **CORS proxies**, and boosts performance with **local caching**. **Devlensia** simplifies your workflow and strengthens your **research capabilities**.
 
 # 🔧 Features
 
